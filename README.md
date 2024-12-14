@@ -1,6 +1,10 @@
-# Simple Python GUI Application
+# WebFisher - AFK
 
-A basic GUI application built with Python's tkinter library.
+Get all the fish in WEBFISHING while doing more important things like filing your taxes & having sex with your hot spouse.
+
+## About
+
+Click a button and watch the fish roll in.
 
 ## Setup
 
@@ -31,4 +35,8 @@ Run the application using:
 python main.py
 ```
 
-The GUI window will appear with basic interactive elements. 
+Get ready to catch some fish! 🎣
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
